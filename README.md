@@ -31,7 +31,7 @@ Run the app locally:
 streamlit run streamlit_app.py
 ```
 
-🌐 Demo: https://streamlit-demo-link-placeholder.com
+🌐 Demo: (https://credit-card-fraud-detection-asm8zkqvub5uv8xwhjvpes.streamlit.app/)
 
 ## 📈 Results
 
