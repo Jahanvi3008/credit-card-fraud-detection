@@ -20,4 +20,3 @@ if uploaded_file is not None:
     data["Fraud Prediction"] = prediction
     st.write("Prediction Results:")
     st.dataframe(data)
-
